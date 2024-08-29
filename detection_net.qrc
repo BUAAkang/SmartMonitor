@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LP-detection.onnx</file>
+        <file>yolov8n.onnx</file>
+    </qresource>
+</RCC>
